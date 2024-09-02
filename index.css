@@ -1,0 +1,9 @@
+body{
+    margin:0;
+    background-color: white;
+}
+
+.input-container{
+    display: flex;
+    justify-content: flex-start;
+}
